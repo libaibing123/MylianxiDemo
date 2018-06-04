@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //你说你是傻逼吧 还不信  
+        //你说你是傻逼吧 还不信
+        //草大傻子
+
     }
 }
